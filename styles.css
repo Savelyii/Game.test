@@ -1,0 +1,9 @@
+.иконка {
+  background-image: url('иконка.png');
+  position: absolute;
+  left: 434px;
+  top: 438px;
+  width: 21px;
+  height: 69px;
+  z-index: 66;
+}
